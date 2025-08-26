@@ -1,2 +1,3 @@
 from simuq.dwave.dwave_provider import DWaveProvider
-from simuq.dwave.dwave_sim_provider import DWaveSimProvider
+from simuq.dwave.sim_annealing_provider import SimulatedAnnealingProvider
+
